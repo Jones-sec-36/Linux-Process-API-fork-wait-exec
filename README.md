@@ -1,7 +1,3 @@
-
-<<<<<<< HEAD
-=======
-
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
 
@@ -202,4 +198,4 @@ int main() {
 
 # RESULT:
 The programs are executed successfully.
->>>>>>> 058a26d (ex02)
+
